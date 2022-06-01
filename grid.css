@@ -76,8 +76,13 @@ footer {
     grid-area: buttons;
 }
 
+h1 {
+    text-align: center;
+}
+
 h2 {
     text-align: right;
+    margin-right: 0.5 rem;
 }
 
 /* From bootstrap */
